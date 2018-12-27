@@ -27,4 +27,8 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.1.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40'
+    compile 'com.oushangfeng:PinnedSectionItemDecoration:1.2.5'
+    compile 'com.android.support:recyclerview-v7:26.1.0'
 }
